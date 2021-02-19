@@ -1,0 +1,6 @@
+module Pods_ReMealer_ReMealerTests {
+  umbrella header "Pods-ReMealer-ReMealerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
